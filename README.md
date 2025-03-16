@@ -1,6 +1,6 @@
 # Spring Boot JWT Template
 
-This Spring Boot template implements JWT-based authentication, providing user registration, login, and `admin` roles to list app users and `user` roles to perform operations with products.
+This project provides a template and practical example for building secure REST APIs with Spring Boot, using JWT (JSON Web Tokens) based authentication. It includes user registration and login functionalities, role management (admin and user), and basic CRUD operations for products, demonstrating how to implement entity relationships.
 
 ## Features
 
